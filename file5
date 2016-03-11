@@ -1,0 +1,12 @@
+id          name           sex         city_id     YOB         phone       salary    
+----------  -------------  ----------  ----------  ----------  ----------  ----------
+1           Hanna Kravets  Female      2           1978        0502220336  2031.0    
+2           Oleksandra Ol  Female      10          1987        0673155794  3511.0    
+3           Olha Koval     Female      12          1982        0678331151  2356.0    
+4           Roman          Male        7           1990        0503477118  4875.0    
+5           Yury           Male        5           1981        0505421557  4726.0    
+6           Serhiy         Male        13          1990        0931415928  4679.0    
+7           Viktor         Male        1           1988        0678997826  4506.0    
+8           Vasyl          Male        10          1985        0936311092  1156.0    
+9           Oleksandr      Male        9           1970        0509937531  3870.0    
+10          Ihor           Male        15          1973        0508710496  2619.0    

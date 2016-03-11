@@ -1,0 +1,6 @@
+#money = 10
+#if bool(money):
+#	print("buy some stuff")
+
+name = raw_input('Enter your name')
+	print('Your name is :' + name)

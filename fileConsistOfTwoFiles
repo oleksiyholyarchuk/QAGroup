@@ -1,0 +1,154 @@
+#-*- coding: utf-8 -*-
+
+#print("""
+#Or you can use triple quote
+#which ignores anything
+#like " or '
+#and even newlines,
+#xcept the unescaped \"\"\"
+#""")
+
+#greetings = 'Hello'
+#greetings = greetings + ' my friend'
+#print(greetings)
+
+#sound = 'pew! '
+#print(sound * 10)
+
+#lst = []
+#for i in xrange(1, 11):
+#    lst.append(i**2)
+#lst
+
+#d = {}
+#for k in xrange(10):
+#    for v in xrange(0, 100, 10):
+#        d[k] = v
+#print(d)
+
+#d = {k: v for k in xrange(10) for v in xrange(0, 100, 10)}
+#print(d)
+
+from datetime import date
+datetime.now()
+
+# print ("You are welcome, you died little niger!")
+
+# for i in range(10):
+#	print i**2
+
+#sister_age = 5;
+#brother_age = 3
+
+#if sister_age > brother_age :
+#	print ("Sister is olders")
+
+
+#sister_age = 5
+#brother_age = 5
+#if sister_age > brother_age :
+#	print("Sister is older")
+#else:
+#	print("Seems like brother is older")
+
+#sister_age = 5
+#brother_age = 5
+#if sister_age > brother_age :
+#	print("Sister is older")
+#else:
+#	if sister_age < brother_age :
+#		print("Brother is older")
+#	else:
+#		print("They are the same age")
+
+sister_age = 5
+brother_age = 5
+if sister_age > brother_age :
+	print("Sister is older")
+elif sister_age < brother_age :
+	print("Brother is older")
+else:
+    print("They are the same age")
+
+
+
+
+
+
+#-*- coding: utf-8 -*-
+
+#print("""
+#Or you can use triple quote
+#which ignores anything
+#like " or '
+#and even newlines,
+#xcept the unescaped \"\"\"
+#""")
+
+#greetings = 'Hello'
+#greetings = greetings + ' my friend'
+#print(greetings)
+
+#sound = 'pew! '
+#print(sound * 10)
+
+#lst = []
+#for i in xrange(1, 11):
+#    lst.append(i**2)
+#lst
+
+#d = {}
+#for k in xrange(10):
+#    for v in xrange(0, 100, 10):
+#        d[k] = v
+#print(d)
+
+#d = {k: v for k in xrange(10) for v in xrange(0, 100, 10)}
+#print(d)
+
+from datetime import date
+datetime.now()
+
+# print ("You are welcome, you died little niger!")
+
+# for i in range(10):
+#	print i**2
+
+#sister_age = 5;
+#brother_age = 3
+
+#if sister_age > brother_age :
+#	print ("Sister is olders")
+
+
+#sister_age = 5
+#brother_age = 5
+#if sister_age > brother_age :
+#	print("Sister is older")
+#else:
+#	print("Seems like brother is older")
+
+#sister_age = 5
+#brother_age = 5
+#if sister_age > brother_age :
+#	print("Sister is older")
+#else:
+#	if sister_age < brother_age :
+#		print("Brother is older")
+#	else:
+#		print("They are the same age")
+
+sister_age = 5
+brother_age = 5
+if sister_age > brother_age :
+	print("Sister is older")
+elif sister_age < brother_age :
+	print("Brother is older")
+else:
+    print("They are the same age")
+
+
+
+
+
+
