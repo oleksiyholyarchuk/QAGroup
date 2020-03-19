@@ -2,7 +2,7 @@ import unittest
 from registryvsdecorator import User, Item
 
 # self.assertRaises (tests whether code we wrote - is raising any exception)
-# self.asertRaises(TypeError, User, ('Ivan'), 2014)
+# self.assertRaises(TypeError, User, ('Ivan'), 2014)
 
 class UserTestCase(unittest.TestCase):
 	def setUp(self):
